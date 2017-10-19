@@ -10,7 +10,7 @@ You can either run this container standalone or you can have it import the datas
 
 Standalone:
 ``` bash
-docker run -p 27017:27017 weshigbee/mongo-sample-datasets 
+docker run -p 27017:27017 weshigbee/docker-mongo-sample-datasets 
 ```
 
 Load data into existing server:
